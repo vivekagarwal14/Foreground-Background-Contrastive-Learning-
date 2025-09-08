@@ -1,0 +1,29 @@
+# fill in your values
+training:
+  # Model settings
+  model_choice: "REPLACE_WITH_MODEL"  # unet, basic_cnn, simple_cnn
+  
+  # Optimizer settings
+  learning_rate: REPLACE_WITH_NUMBER  # e.g., 1e-4
+  weight_decay: REPLACE_WITH_NUMBER   # e.g., 1e-5
+  
+  # Loss weights
+  weight_recon: REPLACE_WITH_NUMBER
+  weight_subject: REPLACE_WITH_NUMBER
+  weight_stimulus: REPLACE_WITH_NUMBER
+  weight_contrast: REPLACE_WITH_NUMBER
+  
+  # Training settings
+  num_epochs: REPLACE_WITH_NUMBER
+  print_frequency: REPLACE_WITH_NUMBER
+  checkpoint_frequency: REPLACE_WITH_NUMBER
+  plot_frequency: REPLACE_WITH_NUMBER
+  
+  # Paths - update to your system
+  checkpoint_dir: "REPLACE_WITH_YOUR_PATH"
+  
+  # W&B settings
+  wandb_project: "REPLACE_WITH_PROJECT_NAME"
+  wandb_run_name: "REPLACE_WITH_RUN_NAME"
+
+  
