@@ -92,3 +92,40 @@ class GlomeruliContrastiveDataset(Dataset):
         
     def __len__(self):
         return len(self.data)
+
+
+#dataset class 
+def generate_mask(h, w, p_drop=0.10, block=1):
+    """
+    Binary mask with 1 = keep, 0 = blind.  Blocks of size `block×block` drop together.
+    """
+    mask = torch.ones((h, w), dtype=torch.float32)
+    anchors = torch.rand((h // block, w // block)) < p_drop
+    for y in range(h):
+        for x in range(w):
+            if anchors[y // block, x // block]:
+                mask[y, x] = 0.0
+    return mask
+
+class GlomeruliN2SDataset(Dataset):
+    def __init__(self, images, labels=None, p_drop=0.10):
+        self.images  = images            # Tensor [N,1,H,W]
+        self.labels  = labels            # unused for training; kept for any analysis
+        self.p_drop  = p_drop
+        self.H, self.W = images.shape[-2:]
+
+    def __len__(self): return self.images.shape[0]
+
+    def __getitem__(self, idx):
+        img   = self.images[idx]                 # tensor, already 0‑1
+        mask  = generate_mask(self.H, self.W, self.p_drop)
+        masked_img = img.clone()
+        masked_img[0] *= mask                    # channel 0 only
+
+        # return as 3‑tuple needed for N2S loss
+        return masked_img, img, mask.unsqueeze(0) # add channel dim to mask
+
+
+
+
+

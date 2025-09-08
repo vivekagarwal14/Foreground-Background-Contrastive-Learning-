@@ -197,3 +197,31 @@ def calculate_r_metric_single(image, bboxes):
     roi_pixel_sum = np.sum(image * roi_mask)
     total_pixel_sum = np.sum(image)
     return roi_pixel_sum / total_pixel_sum if total_pixel_sum > 0 else 0
+
+
+# read .pt for baseline methods comparison
+def load_pt_bundle(path):
+    """
+    Loads .pt file and returns two tensors:
+    images : Tensor [N, 1, H, W]  (float32, 0‑1)
+    labels : Tensor [N]           (int64)       – optional, may be None
+    """
+    bundle = torch.load(path, map_location="cpu")
+
+    #  Adjust to the exact structure 
+    if isinstance(bundle, dict):
+        # e.g. {'data': Tensor, 'labels': Tensor}
+        images = bundle["data"] if "data" in bundle else bundle["images"]
+        labels = bundle.get("labels")
+    elif isinstance(bundle, (list, tuple)):
+        images, labels = bundle
+    else:  # plain tensor
+        images, labels = bundle, None
+
+    # force shape [N,1,H,W] and float32
+    if images.ndim == 3:              # [N,H,W]  → add channel
+        images = images.unsqueeze(1)
+    images = images.float() / images.max()  # ensure 0‑1
+    return images, labels
+
+
