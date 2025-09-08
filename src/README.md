@@ -1,1 +1,1 @@
-This folder has functons for reading the dataset. 
+This folder has functions for running the experiment. 
