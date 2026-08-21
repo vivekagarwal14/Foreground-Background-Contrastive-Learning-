@@ -1,0 +1,301 @@
+odor,mouse_id,bootstrap,MI_noisy,MI_denoised
+"2,3 Pentanedione",0,0,1.68205,2.41329
+"2,3 Pentanedione",0,1,1.48899,2.40904
+"2,3 Pentanedione",0,2,1.55811,2.46431
+"2,3 Pentanedione",0,3,1.49363,2.50081
+"2,3 Pentanedione",0,4,1.39938,2.38539
+"2,3 Pentanedione",0,5,1.40569,2.47801
+"2,3 Pentanedione",0,6,1.49319,2.43291
+"2,3 Pentanedione",0,7,1.39613,2.58829
+"2,3 Pentanedione",0,8,1.50447,2.39964
+"2,3 Pentanedione",0,9,1.53622,2.43238
+"2,3 Pentanedione",0,10,1.49463,2.51690
+"2,3 Pentanedione",0,11,1.36495,2.55689
+"2,3 Pentanedione",0,12,1.48626,2.42441
+"2,3 Pentanedione",0,13,1.53399,2.58402
+"2,3 Pentanedione",0,14,1.50252,2.36506
+"2,3 Pentanedione",1,0,1.58601,2.47895
+"2,3 Pentanedione",1,1,1.51376,2.51055
+"2,3 Pentanedione",1,2,1.57566,2.51989
+"2,3 Pentanedione",1,3,1.40983,2.52312
+"2,3 Pentanedione",1,4,1.44146,2.45882
+"2,3 Pentanedione",1,5,1.49278,2.52976
+"2,3 Pentanedione",1,6,1.50153,2.53184
+"2,3 Pentanedione",1,7,1.61756,2.51851
+"2,3 Pentanedione",1,8,1.59125,2.53401
+"2,3 Pentanedione",1,9,1.51866,2.43280
+"2,3 Pentanedione",1,10,1.46112,2.37728
+"2,3 Pentanedione",1,11,1.65609,2.45956
+"2,3 Pentanedione",1,12,1.42597,2.48814
+"2,3 Pentanedione",1,13,1.45393,2.50006
+"2,3 Pentanedione",1,14,1.48557,2.55797
+3 Methylvaleric Acid,0,0,1.50839,2.74769
+3 Methylvaleric Acid,0,1,1.35416,2.69747
+3 Methylvaleric Acid,0,2,1.43530,2.73926
+3 Methylvaleric Acid,0,3,1.46298,2.72641
+3 Methylvaleric Acid,0,4,1.37757,2.75207
+3 Methylvaleric Acid,0,5,1.51637,2.80743
+3 Methylvaleric Acid,0,6,1.48306,2.80039
+3 Methylvaleric Acid,0,7,1.40832,2.79632
+3 Methylvaleric Acid,0,8,1.45620,2.78102
+3 Methylvaleric Acid,0,9,1.42405,2.72321
+3 Methylvaleric Acid,0,10,1.45587,2.83638
+3 Methylvaleric Acid,0,11,1.54885,2.81107
+3 Methylvaleric Acid,0,12,1.46740,2.76987
+3 Methylvaleric Acid,0,13,1.61494,2.78111
+3 Methylvaleric Acid,0,14,1.46619,2.78835
+3 Methylvaleric Acid,1,0,1.36729,2.89193
+3 Methylvaleric Acid,1,1,1.31811,2.85501
+3 Methylvaleric Acid,1,2,1.35081,2.85570
+3 Methylvaleric Acid,1,3,1.41761,2.86730
+3 Methylvaleric Acid,1,4,1.34886,2.83239
+3 Methylvaleric Acid,1,5,1.40795,2.86899
+3 Methylvaleric Acid,1,6,1.38086,2.86926
+3 Methylvaleric Acid,1,7,1.53248,2.82815
+3 Methylvaleric Acid,1,8,1.46962,2.81189
+3 Methylvaleric Acid,1,9,1.44917,2.87759
+3 Methylvaleric Acid,1,10,1.36887,2.78856
+3 Methylvaleric Acid,1,11,1.29461,2.81677
+3 Methylvaleric Acid,1,12,1.19734,2.86397
+3 Methylvaleric Acid,1,13,1.29531,2.83573
+3 Methylvaleric Acid,1,14,1.39840,2.88224
+Acetic Acid,0,0,1.27683,2.58007
+Acetic Acid,0,1,1.35869,2.62252
+Acetic Acid,0,2,1.38428,2.56365
+Acetic Acid,0,3,1.32017,2.54006
+Acetic Acid,0,4,1.30581,2.44339
+Acetic Acid,0,5,1.27281,2.48611
+Acetic Acid,0,6,1.24904,2.51479
+Acetic Acid,0,7,1.30678,2.51950
+Acetic Acid,0,8,1.12951,2.53868
+Acetic Acid,0,9,1.19915,2.55568
+Acetic Acid,0,10,1.36512,2.55638
+Acetic Acid,0,11,1.37888,2.55770
+Acetic Acid,0,12,1.22622,2.52852
+Acetic Acid,0,13,1.44593,2.60006
+Acetic Acid,0,14,1.33767,2.45844
+Acetic Acid,1,0,1.27838,2.44210
+Acetic Acid,1,1,1.16915,2.49745
+Acetic Acid,1,2,1.06488,2.49556
+Acetic Acid,1,3,1.16187,2.50868
+Acetic Acid,1,4,1.14339,2.50979
+Acetic Acid,1,5,1.12672,2.47361
+Acetic Acid,1,6,1.09570,2.42482
+Acetic Acid,1,7,1.12493,2.35248
+Acetic Acid,1,8,1.10415,2.51210
+Acetic Acid,1,9,1.01638,2.39213
+Acetic Acid,1,10,1.01210,2.43571
+Acetic Acid,1,11,1.21743,2.59599
+Acetic Acid,1,12,1.18230,2.49460
+Acetic Acid,1,13,1.13554,2.56895
+Acetic Acid,1,14,1.08006,2.57513
+Gerinol,0,0,1.32546,2.25016
+Gerinol,0,1,1.31439,2.32867
+Gerinol,0,2,1.20024,2.31792
+Gerinol,0,3,1.16398,2.29054
+Gerinol,0,4,1.32760,2.36127
+Gerinol,0,5,1.34573,2.24175
+Gerinol,0,6,1.07391,2.39512
+Gerinol,0,7,1.10177,2.32892
+Gerinol,0,8,1.09804,2.36451
+Gerinol,0,9,1.24183,2.25668
+Gerinol,0,10,1.18760,2.40535
+Gerinol,0,11,1.32043,2.30946
+Gerinol,0,12,1.34935,2.33680
+Gerinol,0,13,1.21649,2.35121
+Gerinol,0,14,1.25634,2.28484
+Gerinol,1,0,1.22510,2.45168
+Gerinol,1,1,1.12142,2.45749
+Gerinol,1,2,1.24104,2.39385
+Gerinol,1,3,1.22622,2.44097
+Gerinol,1,4,1.07848,2.46548
+Gerinol,1,5,1.32864,2.49642
+Gerinol,1,6,1.19989,2.45076
+Gerinol,1,7,1.19616,2.48384
+Gerinol,1,8,1.25590,2.55701
+Gerinol,1,9,1.33025,2.41791
+Gerinol,1,10,1.15602,2.41269
+Gerinol,1,11,1.13093,2.39524
+Gerinol,1,12,1.31509,2.47443
+Gerinol,1,13,1.25019,2.42911
+Gerinol,1,14,1.16761,2.44225
+n Methyl Piperdine,0,0,1.48695,2.63921
+n Methyl Piperdine,0,1,1.57615,2.65065
+n Methyl Piperdine,0,2,1.51397,2.59154
+n Methyl Piperdine,0,3,1.49423,2.52780
+n Methyl Piperdine,0,4,1.47445,2.54867
+n Methyl Piperdine,0,5,1.48333,2.64931
+n Methyl Piperdine,0,6,1.62867,2.53433
+n Methyl Piperdine,0,7,1.39379,2.55920
+n Methyl Piperdine,0,8,1.70849,2.44730
+n Methyl Piperdine,0,9,1.54348,2.55022
+n Methyl Piperdine,0,10,1.55133,2.47991
+n Methyl Piperdine,0,11,1.61027,2.52704
+n Methyl Piperdine,0,12,1.53350,2.55893
+n Methyl Piperdine,0,13,1.50772,2.48405
+n Methyl Piperdine,0,14,1.53654,2.48757
+n Methyl Piperdine,1,0,1.55694,2.65397
+n Methyl Piperdine,1,1,1.58968,2.49794
+n Methyl Piperdine,1,2,1.73239,2.59382
+n Methyl Piperdine,1,3,1.61334,2.52897
+n Methyl Piperdine,1,4,1.59041,2.58420
+n Methyl Piperdine,1,5,1.71999,2.62967
+n Methyl Piperdine,1,6,1.71054,2.63488
+n Methyl Piperdine,1,7,1.68697,2.55011
+n Methyl Piperdine,1,8,1.72870,2.64040
+n Methyl Piperdine,1,9,1.65391,2.67418
+n Methyl Piperdine,1,10,1.68106,2.63321
+n Methyl Piperdine,1,11,1.70071,2.48765
+n Methyl Piperdine,1,12,1.60005,2.62748
+n Methyl Piperdine,1,13,1.60621,2.54360
+n Methyl Piperdine,1,14,1.74972,2.55324
+"2,4 Dimethyl Acetophenone",0,0,2.25787,2.73099
+"2,4 Dimethyl Acetophenone",0,1,2.35402,2.67635
+"2,4 Dimethyl Acetophenone",0,2,2.35624,2.81012
+"2,4 Dimethyl Acetophenone",0,3,2.25878,2.75313
+"2,4 Dimethyl Acetophenone",0,4,2.28137,2.72136
+"2,4 Dimethyl Acetophenone",0,5,2.35199,2.71662
+"2,4 Dimethyl Acetophenone",0,6,2.25740,2.75740
+"2,4 Dimethyl Acetophenone",0,7,2.37806,2.60713
+"2,4 Dimethyl Acetophenone",0,8,2.35869,2.72738
+"2,4 Dimethyl Acetophenone",0,9,2.30618,2.63200
+"2,4 Dimethyl Acetophenone",0,10,2.36589,2.71459
+"2,4 Dimethyl Acetophenone",0,11,2.27815,2.75958
+"2,4 Dimethyl Acetophenone",0,12,2.27406,2.74863
+"2,4 Dimethyl Acetophenone",0,13,2.33480,2.69619
+"2,4 Dimethyl Acetophenone",0,14,2.37061,2.63428
+"2,4 Dimethyl Acetophenone",1,0,1.93544,2.80751
+"2,4 Dimethyl Acetophenone",1,1,2.12518,2.81551
+"2,4 Dimethyl Acetophenone",1,2,2.10468,2.77680
+"2,4 Dimethyl Acetophenone",1,3,2.02922,2.76941
+"2,4 Dimethyl Acetophenone",1,4,2.04758,2.88776
+"2,4 Dimethyl Acetophenone",1,5,2.04970,2.77381
+"2,4 Dimethyl Acetophenone",1,6,2.08233,2.86307
+"2,4 Dimethyl Acetophenone",1,7,1.93714,2.74928
+"2,4 Dimethyl Acetophenone",1,8,2.03041,2.78715
+"2,4 Dimethyl Acetophenone",1,9,2.08265,2.76170
+"2,4 Dimethyl Acetophenone",1,10,2.07904,2.85000
+"2,4 Dimethyl Acetophenone",1,11,2.01233,2.73969
+"2,4 Dimethyl Acetophenone",1,12,2.07534,2.83207
+"2,4 Dimethyl Acetophenone",1,13,2.01825,2.77180
+"2,4 Dimethyl Acetophenone",1,14,2.20061,2.80552
+4 Heptanone,0,0,2.22626,2.74701
+4 Heptanone,0,1,2.19958,2.70730
+4 Heptanone,0,2,2.21538,2.70475
+4 Heptanone,0,3,2.19184,2.68315
+4 Heptanone,0,4,2.33471,2.69999
+4 Heptanone,0,5,2.33964,2.69065
+4 Heptanone,0,6,2.32294,2.70125
+4 Heptanone,0,7,2.21278,2.72329
+4 Heptanone,0,8,2.11248,2.70833
+4 Heptanone,0,9,2.22065,2.74224
+4 Heptanone,0,10,2.39209,2.68306
+4 Heptanone,0,11,2.34208,2.74617
+4 Heptanone,0,12,2.26548,2.72289
+4 Heptanone,0,13,2.20899,2.73758
+4 Heptanone,0,14,2.30579,2.70806
+4 Heptanone,1,0,2.10970,2.68122
+4 Heptanone,1,1,2.19085,2.71364
+4 Heptanone,1,2,2.15563,2.68380
+4 Heptanone,1,3,2.13703,2.66388
+4 Heptanone,1,4,2.22957,2.69829
+4 Heptanone,1,5,2.07655,2.74187
+4 Heptanone,1,6,2.18058,2.67946
+4 Heptanone,1,7,2.07377,2.65999
+4 Heptanone,1,8,2.17322,2.66672
+4 Heptanone,1,9,2.12783,2.64932
+4 Heptanone,1,10,2.15729,2.69966
+4 Heptanone,1,11,2.24415,2.63088
+4 Heptanone,1,12,2.15060,2.70759
+4 Heptanone,1,13,2.08117,2.70190
+4 Heptanone,1,14,2.17135,2.73668
+33 Dimethyl Butyric Acid,0,0,1.27199,2.36849
+33 Dimethyl Butyric Acid,0,1,1.14442,2.31682
+33 Dimethyl Butyric Acid,0,2,1.32334,2.31834
+33 Dimethyl Butyric Acid,0,3,1.20782,2.39032
+33 Dimethyl Butyric Acid,0,4,1.20771,2.30925
+33 Dimethyl Butyric Acid,0,5,1.15864,2.34325
+33 Dimethyl Butyric Acid,0,6,1.18810,2.33752
+33 Dimethyl Butyric Acid,0,7,1.22705,2.34437
+33 Dimethyl Butyric Acid,0,8,1.20362,2.38414
+33 Dimethyl Butyric Acid,0,9,1.02880,2.34318
+33 Dimethyl Butyric Acid,0,10,1.13482,2.36898
+33 Dimethyl Butyric Acid,0,11,1.25975,2.36967
+33 Dimethyl Butyric Acid,0,12,1.12098,2.36583
+33 Dimethyl Butyric Acid,0,13,1.25716,2.35235
+33 Dimethyl Butyric Acid,0,14,1.35457,2.41799
+33 Dimethyl Butyric Acid,1,0,1.25926,2.12965
+33 Dimethyl Butyric Acid,1,1,1.34070,2.23506
+33 Dimethyl Butyric Acid,1,2,1.24259,2.25271
+33 Dimethyl Butyric Acid,1,3,1.39389,2.21291
+33 Dimethyl Butyric Acid,1,4,1.26933,2.22916
+33 Dimethyl Butyric Acid,1,5,1.19220,2.17298
+33 Dimethyl Butyric Acid,1,6,1.29283,2.27809
+33 Dimethyl Butyric Acid,1,7,1.33700,2.15686
+33 Dimethyl Butyric Acid,1,8,1.31503,2.19105
+33 Dimethyl Butyric Acid,1,9,1.23540,2.35271
+33 Dimethyl Butyric Acid,1,10,1.27608,2.23808
+33 Dimethyl Butyric Acid,1,11,1.15712,2.25218
+33 Dimethyl Butyric Acid,1,12,1.38003,2.26487
+33 Dimethyl Butyric Acid,1,13,1.31031,2.13504
+33 Dimethyl Butyric Acid,1,14,1.18553,2.24341
+2 Methyl Butyraldehyde,0,0,1.19931,2.57081
+2 Methyl Butyraldehyde,0,1,1.25966,2.52065
+2 Methyl Butyraldehyde,0,2,1.35415,2.51864
+2 Methyl Butyraldehyde,0,3,1.02765,2.52874
+2 Methyl Butyraldehyde,0,4,1.24965,2.52700
+2 Methyl Butyraldehyde,0,5,1.32038,2.45162
+2 Methyl Butyraldehyde,0,6,1.02698,2.52606
+2 Methyl Butyraldehyde,0,7,1.25102,2.52563
+2 Methyl Butyraldehyde,0,8,1.24620,2.52232
+2 Methyl Butyraldehyde,0,9,1.16926,2.49281
+2 Methyl Butyraldehyde,0,10,1.24917,2.54837
+2 Methyl Butyraldehyde,0,11,0.91295,2.58172
+2 Methyl Butyraldehyde,0,12,1.16968,2.61165
+2 Methyl Butyraldehyde,0,13,1.36925,2.53835
+2 Methyl Butyraldehyde,0,14,1.10008,2.55699
+2 Methyl Butyraldehyde,1,0,1.23118,2.45171
+2 Methyl Butyraldehyde,1,1,1.18615,2.41749
+2 Methyl Butyraldehyde,1,2,1.18870,2.48966
+2 Methyl Butyraldehyde,1,3,1.08984,2.38107
+2 Methyl Butyraldehyde,1,4,1.32629,2.48943
+2 Methyl Butyraldehyde,1,5,1.24175,2.40520
+2 Methyl Butyraldehyde,1,6,1.23522,2.50470
+2 Methyl Butyraldehyde,1,7,1.22817,2.42584
+2 Methyl Butyraldehyde,1,8,1.14909,2.41204
+2 Methyl Butyraldehyde,1,9,1.12748,2.42430
+2 Methyl Butyraldehyde,1,10,1.23516,2.51955
+2 Methyl Butyraldehyde,1,11,1.14493,2.46694
+2 Methyl Butyraldehyde,1,12,1.29359,2.41045
+2 Methyl Butyraldehyde,1,13,1.19440,2.43111
+2 Methyl Butyraldehyde,1,14,1.16621,2.45980
+m Anisaldehyde,0,0,0.83514,2.47643
+m Anisaldehyde,0,1,0.85106,2.45613
+m Anisaldehyde,0,2,0.91436,2.40719
+m Anisaldehyde,0,3,0.80957,2.52532
+m Anisaldehyde,0,4,0.93145,2.49573
+m Anisaldehyde,0,5,0.94443,2.49811
+m Anisaldehyde,0,6,0.96500,2.53719
+m Anisaldehyde,0,7,0.98615,2.53123
+m Anisaldehyde,0,8,0.83018,2.43772
+m Anisaldehyde,0,9,0.96907,2.39150
+m Anisaldehyde,0,10,0.87812,2.47354
+m Anisaldehyde,0,11,0.88045,2.44689
+m Anisaldehyde,0,12,0.97292,2.53571
+m Anisaldehyde,0,13,0.88234,2.48372
+m Anisaldehyde,0,14,1.02287,2.61668
+m Anisaldehyde,1,0,0.87054,2.49389
+m Anisaldehyde,1,1,1.10301,2.57347
+m Anisaldehyde,1,2,1.00912,2.60143
+m Anisaldehyde,1,3,0.93696,2.56345
+m Anisaldehyde,1,4,0.92322,2.47376
+m Anisaldehyde,1,5,0.86253,2.53569
+m Anisaldehyde,1,6,0.83779,2.52132
+m Anisaldehyde,1,7,1.08506,2.55493
+m Anisaldehyde,1,8,1.11342,2.52897
+m Anisaldehyde,1,9,1.03948,2.54494
+m Anisaldehyde,1,10,0.96019,2.53365
+m Anisaldehyde,1,11,1.10601,2.51348
+m Anisaldehyde,1,12,0.88004,2.51937
+m Anisaldehyde,1,13,1.09803,2.52616
+m Anisaldehyde,1,14,0.92228,2.55613
